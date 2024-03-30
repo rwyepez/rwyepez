@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm from Ecuador and I'm a Cloud-Devops 
+
+## Skills
+
+* I'm currently working as a Cloud Engineer with AWS, OCI, learning Azure.
+* Kubernetes, Terraform, Docker.
+* Some Java and Python coding.
+* Sometimes leader and sometimes member team.
+
+## 
